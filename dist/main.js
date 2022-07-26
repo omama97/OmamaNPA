@@ -20,7 +20,3 @@ const fetchData = () => {
 const displayDataBtn = () => {
   fetchData();
 };
-
-function img404(img) {
-  img.src = "https://makitweb.com/demo/broken_image/images/noimage.png";
-}
